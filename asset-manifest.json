@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio-nov-2022/static/css/main.9d24dcd0.css",
+    "main.js": "/portfolio-nov-2022/static/js/main.03ed76d0.js",
+    "static/media/desktop-photosnap-stories.png": "/portfolio-nov-2022/static/media/desktop-photosnap-stories.28e24c73a71544597fde.png",
+    "static/media/desktop-entertainment-home.png": "/portfolio-nov-2022/static/media/desktop-entertainment-home.2e66c4f05b58ff63ef88.png",
+    "static/media/entertainment-mobile.png": "/portfolio-nov-2022/static/media/entertainment-mobile.06a95b159102577ca9cb.png",
+    "static/media/entertainment-desktop.png": "/portfolio-nov-2022/static/media/entertainment-desktop.5927a3017c85e315ae45.png",
+    "static/media/desktop-entertainment-page.png": "/portfolio-nov-2022/static/media/desktop-entertainment-page.6b97718c50a82a20b08d.png",
+    "static/media/entertainment-tv-series.png": "/portfolio-nov-2022/static/media/entertainment-tv-series.fbaed73a2345799463b9.png",
+    "static/media/desktop-photosnap-home.png": "/portfolio-nov-2022/static/media/desktop-photosnap-home.f36db137122fc930659a.png",
+    "static/media/desktop-entertainment-logout.png": "/portfolio-nov-2022/static/media/desktop-entertainment-logout.947105efc599de05508a.png",
+    "static/media/desktop-photosnap-features.png": "/portfolio-nov-2022/static/media/desktop-photosnap-features.c4267c67f7e38319c33f.png",
+    "static/media/desktop-photosnap-pricing.png": "/portfolio-nov-2022/static/media/desktop-photosnap-pricing.7ca347eee38f99e7684b.png",
+    "static/media/desktop-entertainment-filter.png": "/portfolio-nov-2022/static/media/desktop-entertainment-filter.240d03a6c8f94a8b23c2.png",
+    "static/media/entertainment-logout.png": "/portfolio-nov-2022/static/media/entertainment-logout.32913fd45b5785649a0c.png",
+    "static/media/invoice-more-details.png": "/portfolio-nov-2022/static/media/invoice-more-details.f7a94b6bff3d23a00711.png",
+    "static/media/entertainment-filter.png": "/portfolio-nov-2022/static/media/entertainment-filter.444d170ec6d64099a9eb.png",
+    "static/media/invoice-delete.png": "/portfolio-nov-2022/static/media/invoice-delete.a60817808d847467becb.png",
+    "static/media/invoice-filter.png": "/portfolio-nov-2022/static/media/invoice-filter.cf0a4f048a0232b7ddb5.png",
+    "static/media/invoice-home.png": "/portfolio-nov-2022/static/media/invoice-home.6505efac6943c0c013a6.png",
+    "static/media/desktop-invoice-delete.png": "/portfolio-nov-2022/static/media/desktop-invoice-delete.989b1ad37787572149dc.png",
+    "static/media/new-invoice-form-desktop.png": "/portfolio-nov-2022/static/media/new-invoice-form-desktop.67c36122965eb5c7b7bb.png",
+    "static/media/desktop-invoice-view.png": "/portfolio-nov-2022/static/media/desktop-invoice-view.51908de6dab742b06dd0.png",
+    "static/media/invoice-edit.png": "/portfolio-nov-2022/static/media/invoice-edit.289f46b8fb441d5c8e06.png",
+    "static/media/desktop-invoice-add.png": "/portfolio-nov-2022/static/media/desktop-invoice-add.30e38aa6fd0f08867d66.png",
+    "static/media/desktop-invoice-home.png": "/portfolio-nov-2022/static/media/desktop-invoice-home.7c8bb137c0cf403fd1bc.png",
+    "static/media/dots.svg": "/portfolio-nov-2022/static/media/dots.c8f83f7f17835b7a642dd1d2532b806a.svg",
+    "static/media/github-sign.svg": "/portfolio-nov-2022/static/media/github-sign.53e1a199a94164ca4433b17f5b130392.svg",
+    "static/media/linkedin.svg": "/portfolio-nov-2022/static/media/linkedin.8a26b8fdade368734a4818544d3fb0cb.svg",
+    "index.html": "/portfolio-nov-2022/index.html",
+    "main.9d24dcd0.css.map": "/portfolio-nov-2022/static/css/main.9d24dcd0.css.map",
+    "main.03ed76d0.js.map": "/portfolio-nov-2022/static/js/main.03ed76d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d24dcd0.css",
+    "static/js/main.03ed76d0.js"
+  ]
+}
